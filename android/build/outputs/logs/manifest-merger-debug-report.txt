@@ -1,0 +1,61 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/paranjothi/Documents/inAppBrowser/node_modules/react-native-inappbrowser-reborn/android/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/paranjothi/Documents/inAppBrowser/node_modules/react-native-inappbrowser-reborn/android/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/paranjothi/Documents/inAppBrowser/node_modules/react-native-inappbrowser-reborn/android/src/main/AndroidManifest.xml:2:1-31:12
+	package
+		ADDED from /Users/paranjothi/Documents/inAppBrowser/node_modules/react-native-inappbrowser-reborn/android/src/main/AndroidManifest.xml:3:5-42
+		INJECTED from /Users/paranjothi/Documents/inAppBrowser/node_modules/react-native-inappbrowser-reborn/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/paranjothi/Documents/inAppBrowser/node_modules/react-native-inappbrowser-reborn/android/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/paranjothi/Documents/inAppBrowser/node_modules/react-native-inappbrowser-reborn/android/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/paranjothi/Documents/inAppBrowser/node_modules/react-native-inappbrowser-reborn/android/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /Users/paranjothi/Documents/inAppBrowser/node_modules/react-native-inappbrowser-reborn/android/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /Users/paranjothi/Documents/inAppBrowser/node_modules/react-native-inappbrowser-reborn/android/src/main/AndroidManifest.xml:7:5-24:19
+	android:launchMode
+		ADDED from /Users/paranjothi/Documents/inAppBrowser/node_modules/react-native-inappbrowser-reborn/android/src/main/AndroidManifest.xml:9:9-40
+	android:noHistory
+		ADDED from /Users/paranjothi/Documents/inAppBrowser/node_modules/react-native-inappbrowser-reborn/android/src/main/AndroidManifest.xml:8:9-33
+activity#com.proyecto26.inappbrowser.ChromeTabsManagerActivity
+ADDED from /Users/paranjothi/Documents/inAppBrowser/node_modules/react-native-inappbrowser-reborn/android/src/main/AndroidManifest.xml:11:9-14:20
+	android:exported
+		ADDED from /Users/paranjothi/Documents/inAppBrowser/node_modules/react-native-inappbrowser-reborn/android/src/main/AndroidManifest.xml:13:13-37
+	android:name
+		ADDED from /Users/paranjothi/Documents/inAppBrowser/node_modules/react-native-inappbrowser-reborn/android/src/main/AndroidManifest.xml:12:13-54
+receiver#com.proyecto26.inappbrowser.BrowserActionsReceiver
+ADDED from /Users/paranjothi/Documents/inAppBrowser/node_modules/react-native-inappbrowser-reborn/android/src/main/AndroidManifest.xml:15:9-17:39
+	android:exported
+		ADDED from /Users/paranjothi/Documents/inAppBrowser/node_modules/react-native-inappbrowser-reborn/android/src/main/AndroidManifest.xml:17:13-36
+	android:name
+		ADDED from /Users/paranjothi/Documents/inAppBrowser/node_modules/react-native-inappbrowser-reborn/android/src/main/AndroidManifest.xml:16:13-51
+receiver#com.proyecto26.inappbrowser.BottomBarManager
+ADDED from /Users/paranjothi/Documents/inAppBrowser/node_modules/react-native-inappbrowser-reborn/android/src/main/AndroidManifest.xml:18:9-22:20
+	android:exported
+		ADDED from /Users/paranjothi/Documents/inAppBrowser/node_modules/react-native-inappbrowser-reborn/android/src/main/AndroidManifest.xml:20:13-36
+	android:name
+		ADDED from /Users/paranjothi/Documents/inAppBrowser/node_modules/react-native-inappbrowser-reborn/android/src/main/AndroidManifest.xml:19:13-45
+queries
+ADDED from /Users/paranjothi/Documents/inAppBrowser/node_modules/react-native-inappbrowser-reborn/android/src/main/AndroidManifest.xml:26:5-30:15
+intent#action:name:android.support.customtabs.action.CustomTabsService
+ADDED from /Users/paranjothi/Documents/inAppBrowser/node_modules/react-native-inappbrowser-reborn/android/src/main/AndroidManifest.xml:27:9-29:18
+action#android.support.customtabs.action.CustomTabsService
+ADDED from /Users/paranjothi/Documents/inAppBrowser/node_modules/react-native-inappbrowser-reborn/android/src/main/AndroidManifest.xml:28:13-90
+	android:name
+		ADDED from /Users/paranjothi/Documents/inAppBrowser/node_modules/react-native-inappbrowser-reborn/android/src/main/AndroidManifest.xml:28:21-87
+uses-sdk
+INJECTED from /Users/paranjothi/Documents/inAppBrowser/node_modules/react-native-inappbrowser-reborn/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/paranjothi/Documents/inAppBrowser/node_modules/react-native-inappbrowser-reborn/android/src/main/AndroidManifest.xml
+INJECTED from /Users/paranjothi/Documents/inAppBrowser/node_modules/react-native-inappbrowser-reborn/android/src/main/AndroidManifest.xml
+INJECTED from /Users/paranjothi/Documents/inAppBrowser/node_modules/react-native-inappbrowser-reborn/android/src/main/AndroidManifest.xml
+INJECTED from /Users/paranjothi/Documents/inAppBrowser/node_modules/react-native-inappbrowser-reborn/android/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/paranjothi/Documents/inAppBrowser/node_modules/react-native-inappbrowser-reborn/android/src/main/AndroidManifest.xml
+		ADDED from /Users/paranjothi/Documents/inAppBrowser/node_modules/react-native-inappbrowser-reborn/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/paranjothi/Documents/inAppBrowser/node_modules/react-native-inappbrowser-reborn/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/paranjothi/Documents/inAppBrowser/node_modules/react-native-inappbrowser-reborn/android/src/main/AndroidManifest.xml
+		ADDED from /Users/paranjothi/Documents/inAppBrowser/node_modules/react-native-inappbrowser-reborn/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/paranjothi/Documents/inAppBrowser/node_modules/react-native-inappbrowser-reborn/android/src/main/AndroidManifest.xml

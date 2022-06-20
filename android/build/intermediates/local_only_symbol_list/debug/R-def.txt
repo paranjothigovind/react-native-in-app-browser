@@ -1,0 +1,32 @@
+R_DEF: Internal format may change without notice
+local
+drawable cover
+drawable ic_arrow_back
+drawable ic_arrow_back_black
+drawable ic_arrow_back_white
+drawable ic_launcher
+drawable ic_notification_icon
+drawable ic_play
+drawable ic_share
+drawable ic_stop
+id btn_finish
+id button
+id connect_button
+id edit
+id launch_browser_actions_button
+id launch_button
+id may_launch_button
+id register_twa_service
+id spinner
+id warmup_button
+layout main
+layout remote_view
+raw amazing_grace
+string app_name
+string connect_button_text
+string launch_browser_actions_button_text
+string launch_button_text
+string may_launch_button_text
+string register_twa_service
+string url_hint
+string warmup_button_text
